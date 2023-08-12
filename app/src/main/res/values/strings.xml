@@ -7,6 +7,11 @@
     <string name="audio_realm">Audio Realm</string>
     <string name="song_name">Song Name</string>
     <string name="back_btn">Back</string>
-    <string name=""
+    <string name="previous_song_btn">Previous Song</string>
+    <string name="pause_song_btn">Pause Song</string>
+    <string name="play_song_btn">Play Song</string>
+    <string name="next_song_btn">Next Song</string>
+    <string name="start_tv">00:00</string>
+    <string name="end_tv">loading...</string>
 
 </resources>
